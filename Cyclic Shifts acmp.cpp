@@ -1,3 +1,4 @@
+///https://acmp.ru/asp/do/index.asp?main=task&id_course=2&id_section=18&id_topic=43&id_problem=286&locale=en
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long
